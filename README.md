@@ -22,11 +22,9 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Laptop/PC with a internet connection
+- Virtual Machine (VmWare, Virtual box, Azure portal).
+  - Check how to create a virtual machine and install osTicket [here](https://github.com/sdaramola08/osticket-prereqs) 
 
 <h2>Configuration Steps</h2>
 
